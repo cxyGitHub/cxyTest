@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		
+		
+		<key>m1_death_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		<key>m1_death_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,95},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		
+		<key>m2_death_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200,0},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		<key>m2_death_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200,95},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		<key>m3_death_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200,185},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		<key>m3_death_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200,275},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		<key>m4_death_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200,360},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		<key>m4_death_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200,450},{185,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		
+		<key>m_death_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,180},{185,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,95}}</string>
+			<key>sourceSize</key>
+			<string>{185,95}</string>
+		</dict>
+		
+		<key>m_death_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,280},{185,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		<key>m_death_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,370},{185,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{185,80}}</string>
+			<key>sourceSize</key>
+			<string>{185,80}</string>
+		</dict>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>deathEffects.png</string>
+		<key>size</key>
+		<string>{500,600}</string>
+		<key>textureFileName</key>
+		<string>deathEffects.png</string>
+	</dict>
+</dict>
+</plist>

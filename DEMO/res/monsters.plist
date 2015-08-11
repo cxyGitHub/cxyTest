@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		
+		
+		<key>monster1_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,310},{121,125}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>monster1_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{760,175},{125,130}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>monster2_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{125,175},{121,125}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>monster2_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,175},{121,125}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		
+		<key>monster3_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{510,175},{125,130}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>monster3_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{635,175},{125,130}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>monster4_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{160,310},{120,200}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{46,26}</string>
+		</dict>
+		
+		<key>monster4_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{280,310},{120,200}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		
+		
+		<key>monster13_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{245,175},{135,130}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>monster13_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{380,175},{135,130}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{46,26}}</string>
+			<key>sourceSize</key>
+			<string>{48,28}</string>
+		</dict>
+		
+		<key>time.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885,175},{125,130}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{125,130}}</string>
+			<key>sourceSize</key>
+			<string>{125,130}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>monsters.png</string>
+		<key>size</key>
+		<string>{1024,512}</string>
+		<key>textureFileName</key>
+		<string>monsters.png</string>
+	</dict>
+</dict>
+</plist>

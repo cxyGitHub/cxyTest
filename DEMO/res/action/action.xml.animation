@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>action</Name>
+  <ProjectDir>E:\work\cocos2d-js\work\DEMO\res\action</ProjectDir>
+  <SceneJson>action.json</SceneJson>
+  <Resources>E:\work\cocos2d-js\work\DEMO\res\action\Resources</Resources>
+  <JsonFolder>E:\work\cocos2d-js\work\DEMO\res\action\Json</JsonFolder>
+  <JsonList />
+  <ResourceFileList>
+    <string>action0.plist</string>
+  </ResourceFileList>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

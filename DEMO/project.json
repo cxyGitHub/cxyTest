@@ -1,0 +1,30 @@
+{
+  "project_type": "javascript",
+  "debugMode": 1,
+  "showFPS": true,
+  "frameRate": 60,
+  "id": "gameCanvas",
+  "renderMode": 0,
+  "engineDir": "frameworks/cocos2d-html5",
+  "modules": [
+    "cocos2d",
+    "chipmunk",
+    "extensions",
+    "external"
+  ],
+  "jsList": [
+    "src/resource.js",
+    "src/gamePlay/config/GameConfig.js",
+    "src/gamePlay/classes/DomImpl.js",
+    "src/gamePlay/layer/GamePlayLayer.js",
+    "src/gamePlay/scene/GamePlayScene.js",
+    "src/gamePlay/sprite/RailingSprite.js",
+    "src/gamePlay/sprite/MonsterSprite.js",
+    "src/gamePlay/sprite/PlayerSprite.js",
+    "src/gamePlay/layer/TouchLayer.js",
+    "src/gamePlay/sprite/EffectsSprite.js",
+    "src/gamePlay/sprite/TextLabelTTF.js",
+    "src/gamePlay/sprite/TimeSprite.js",
+    "src/gamePlay/classes/Level.js"
+  ]
+}

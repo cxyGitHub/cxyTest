@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>NewProject</Name>
+  <ProjectDir>E:\work\cocos2d-js\work\DEMO\res\NewProject</ProjectDir>
+  <SceneJson>NewProject.json</SceneJson>
+  <Resources>E:\work\cocos2d-js\work\DEMO\res\NewProject\Resources</Resources>
+  <JsonFolder>E:\work\cocos2d-js\work\DEMO\res\NewProject\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>

@@ -1,0 +1,15 @@
+{
+  "armature_data": [
+    {
+      "strVersion": "0.3.3.0",
+      "version": 0.33,
+      "name": "NewProject"
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "NewProject"
+    }
+  ],
+  "texture_data": null
+}
