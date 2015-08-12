@@ -1,1 +1,1 @@
-# cocos2d-js game dome
+# cocos2d-js game demo
