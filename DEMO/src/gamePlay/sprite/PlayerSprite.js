@@ -83,7 +83,8 @@ var PlayerSprite = cc.Sprite.extend({
     	this._direction = 0;
     },
     attack:function(){
-    	if(!this._down&&!this._attackOn){
+//    	if(this._down)return;
+    	if(!this._attackOn){
     		this._run = false;
     		g_gpl.runMove();
     		this.stopAllActions();

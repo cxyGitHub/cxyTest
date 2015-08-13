@@ -15,7 +15,8 @@ var TimeSprite = cc.Sprite.extend({
 		this.runAction(seqAction);
 	},
 	getTimeSprite:function(){
-		if(Math.random()>0.5&&!this.y>=GC.h){
+		if(Math.random()>0&&!this.y<=GC.h){
+			console.log(11);
 			this.visible = true;
 			return this;
 		}

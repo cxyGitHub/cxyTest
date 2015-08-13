@@ -8,7 +8,7 @@ var RailingSprite = cc.Sprite.extend({
     moveUp:function(){
 		if(this.y>GC.h){
 			this.y=0;
-			this.x = Math.random()>0.5?GC.w_2+Math.random()*100:GC.w_2-Math.random()*100;
+			this.x = Math.random()>0.5?GC.w_2+Math.random()*150:GC.w_2-Math.random()*150;
 			if(this._tool==null){
 				this._tool = g_ts.getTimeSprite();
 				if(this._tool!=null){
